@@ -7,7 +7,7 @@
 
 
 ## 阅读
-在 Github 上阅读本书：https://github.com/snowmingsec/the-hacker-playbook-3/blob/master/SUMMARY.md
+在 Github 上阅读本书：https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/blob/master/SUMMARY.md
 
 - [在线阅读]()
 - [PDF格式]()
