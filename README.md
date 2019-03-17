@@ -7,7 +7,7 @@
 
 
 ## 阅读
-[在 Github 上阅读本](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/blob/master/SUMMARY.md)
+[在 Github 上阅读本书](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/blob/master/SUMMARY.md)
 
 ## 免责声明
 [@Snowming](https://github.com/Snowming04) 纯粹出于学习目的与个人兴趣翻译本书。本人承诺绝不用此译文谋取任何形式的经济利益。也坚决拒绝其他任何人以此牟利。
