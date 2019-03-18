@@ -73,7 +73,7 @@
 * [鶇](http://wp.blkstone.me)
 * [leitbogioro](https://github.com/leitbogioro/)
 
-也感谢以下的小伙伴原意跟我讨论书上的问题：
+也感谢以下的小伙伴愿意跟我讨论书上的问题：
 * [鶇](http://wp.blkstone.me)
 * 哈姆太郎
 * 匿名jack
