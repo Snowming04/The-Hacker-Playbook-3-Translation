@@ -1,4 +1,4 @@
-# 第1章 赛前准备——安装.md
+# 第1章 赛前准备——安装
 
 > 译者：[@Snowming](https://github.com/Snowming04)
 
