@@ -294,7 +294,7 @@ docker cp <container-id>:/data/results.txt
 - 配置凭证：
     - aws configure
 - 查看 CyberSpaceKittens 的 S3 bucket 的权限:
-    - aws s3api get-bucket-acl —bucket cyberspacekittens
+    - aws s3api get-bucket-acl --bucket cyberspacekittens
 - 从 S3 Bucket 中读取文件：
     - aws s3 ls s3://cyberspacekittens
 - 下载存在 S3 Bucket 中的所有内容：
