@@ -7,5 +7,6 @@
 
 3. 修复了 [Isssue#5 第1章 赛前准备——安装=>设置你的外部服务器(Digital Dcean应为Digital Ocean)](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/issues/5)。<br>感谢 [@WMJ](https://github.com/StefanoWen) 的宝贵建议。
 
-4. 修复了 [Isssue#5 第1章“APT组织与方法持续更新列表”的链接有误](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/issues/6)。<br>感谢 [@dom2q](https://github.com/dom2q) 的宝贵建议。
+4. 修复了 [Isssue#6 第1章“APT组织与方法持续更新列表”的链接有误](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/issues/6)。<br>感谢 [@dom2q](https://github.com/dom2q) 的宝贵建议。
+
 ---
