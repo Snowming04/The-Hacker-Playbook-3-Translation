@@ -41,7 +41,7 @@
 一个好消息是被抓住也是评估的一部分。有一些入侵中我们会被抓4到5次，然后在4到5个不同的环境中被消灭。这确实向你的客户表明，他们的防御如他们预期的一样在起作用（或没有起作用）。在书的最后，我将提供一些报告示例，说明我们如何获取指标并报告这些数据。
 
 ## 设置你的外部服务器 
-我们使用许多不同的服务来建立我们的红队活动。在当今这个充斥着 VPS的世界里，在互联网上抵抗攻击者的机器不会超出你的预算。例如，我通常使用 Digital Dcean 公司的[ Droplets 计算服务](https://www.digitalocean.com/products/compute)或 AWS 的 [Lightsail 服务器](https://lightsail.aws.amazon.com)来配置我的 VPS 服务器。我使用这些服务的原因是它们通常成本很低(有时是免费的)，可以选择 Ubuntu 系统的服务器，并且可以根据需要选择购买不同区域的服务器。最重要的是，它们非常容易设置。在几分钟内，你就可以设置并运行多个服务器的 Metasploit 和 Empire 服务。
+我们使用许多不同的服务来建立我们的红队活动。在当今这个充斥着 VPS的世界里，在互联网上抵抗攻击者的机器不会超出你的预算。例如，我通常使用 Digital Ocean 公司的[ Droplets 计算服务](https://www.digitalocean.com/products/compute)或 AWS 的 [Lightsail 服务器](https://lightsail.aws.amazon.com)来配置我的 VPS 服务器。我使用这些服务的原因是它们通常成本很低(有时是免费的)，可以选择 Ubuntu 系统的服务器，并且可以根据需要选择购买不同区域的服务器。最重要的是，它们非常容易设置。在几分钟内，你就可以设置并运行多个服务器的 Metasploit 和 Empire 服务。
 
 在本书中，我将重点介绍 AWS 的 Lightsail 服务器，因为它易于设置、能够自动化服务，以及通常流向 AWS 的流量。在你成功创建了一个你喜欢的镜像后，你可以快速地将该镜像克隆到多个服务器，这使得构建现成的 C2(Command and Control) box 非常容易。
 
