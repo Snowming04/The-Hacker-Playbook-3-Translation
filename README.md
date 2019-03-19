@@ -9,7 +9,7 @@
 ## 阅读及 PDF 下载
 - [在 Github 上阅读本书](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/blob/master/SUMMARY.md)
 
-- [PDF 下载](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/blob/master/PDF/%5B%E8%AF%91%5D%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%89%E7%89%88(%E7%BA%A2%E9%98%9F%E7%89%88).pdf)
+- [PDF 下载](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/tree/master/PDF)
 
 - PDF 一周重新生成一次，下一次重新生成是3月25日（会在 PDF 里面包含最新更新）。Github 文档会保持实时更新。
 
