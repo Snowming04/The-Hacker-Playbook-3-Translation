@@ -15,7 +15,7 @@
 >1. 上面的矩阵仅仅包扩适用于 Windows 平台的技术。完整的商用 Enterprise ATT＆CK 矩阵也包括适用于 [macOS](https://attack.mitre.org/matrices/enterprise/macos/) 和 [Linux]( https://attack.mitre.org/matrices/enterprise/linux/) 平台的技术。
 >2. 矩阵中的内容严格复制自原书。只是因为原书图片分辨率太低，为了读者的阅读体验，特意重新作图。ATT&CK 矩阵至今没有中文翻译，因为译者才疏学浅，不敢献丑翻译，故保留英文。但是需要说明的是，书中列出的矩阵内容，跟 MITRE 公司官网给出的矩阵内容存在差异，可能是因为矩阵被重新修订了。故给出 [Enterprise Matrix - Windows的官网地址](https://attack.mitre.org/matrices/enterprise/windows/) 供读者参考。
 
-另一个资源是 [@cyb3rops](https://twitter.com/cyb3rops) 整理的 [APT组织与方法持续更新列表]( http://bit.ly/2GZb8eW)。这个谷歌文件列举了世界多个国家的疑似 APT 组织及其使用的工具集。对于红队成员来说，我们可以参考此文档来模拟不同的攻击。当然，我们可能不会使用与文档中列举的相同的工具，但是我们可以构建类似的工具来做同样的攻击。
+另一个资源是 [@cyb3rops](https://twitter.com/cyb3rops) 整理的 [APT组织与方法持续更新列表](http://bit.ly/2GZb8eW)。这个谷歌文件列举了世界多个国家的疑似 APT 组织及其使用的工具集。对于红队成员来说，我们可以参考此文档来模拟不同的攻击。当然，我们可能不会使用与文档中列举的相同的工具，但是我们可以构建类似的工具来做同样的攻击。
 
 ![](../images/chapter_1/1-16.PNG)
 
