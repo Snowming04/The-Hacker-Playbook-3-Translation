@@ -250,7 +250,7 @@ docker ps -a
 ```
 - 有了容器 ID 后，就可以输入以下命令将结果文件从容器(container)发送到主机:
 ```shell
-docker cp <container-id>:/data/results.txt 
+docker cp <container-id>:/data/results.txt ./results.txt
 ```
 
 ### Cloud
