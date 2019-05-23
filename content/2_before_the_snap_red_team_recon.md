@@ -181,7 +181,7 @@ Knock 是一个很好的子域名扫描工具，它生成一个子域名列表�
 - python ./knockpy.py cyberspacekittens.com
 - 这将使用 Knock 中内置的基础子域名字典。尝试下载并使用更大的子域名字典。使用`-u`参数切换到 http://bit.ly/2qwxrxB 字典。即：
 ```shell
-python ./knockpy.py cyberspacekittens.com -u all.txt
+python ./knockpy.py cyberspacekittens.com -w all.txt
 ```
 
 你从 Discover Scripts 中发现了哪些类型的差异？什么类型的域将是你的第一个攻击目标，或与钓鱼式域攻击一起使用？去现实世界试试吧！去找一个 bug 赏金程序，并寻找丰富的子域。
