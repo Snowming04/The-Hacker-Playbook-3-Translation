@@ -7,7 +7,7 @@
 
 
 ## 阅读及 PDF 下载
-- [在 Github 上阅读本书](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/blob/master/SUMMARY.md)
+- [在 Github 上阅读本书](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/blob/master/%E7%9B%AE%E5%BD%95.md)
 
 - [PDF 下载](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/tree/master/PDF)
 
@@ -80,7 +80,4 @@
 
 ## 协议
 [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-## What's More
-- 欢迎加入360企业安全高级攻防部！
 
