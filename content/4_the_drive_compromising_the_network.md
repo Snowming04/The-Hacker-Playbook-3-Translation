@@ -962,7 +962,7 @@ Empire 模块：powershell/credentials/mimikatz/dcsync_hashdump
 
 ![](../images/chapter_4/4-46.png)
 
-首先，我们需要设置一个 VPS 服务器，启用开放到公网的多个端口，用 PTF 配置 Metasploit，并用 Meterpreter 攻陷最初的受害者。我们也可以用 Cobalt Strike 或其他框架来实现这一点，但在本例中我们将使用 Meterpreter。
+首先，我们需要设置一个 VPS 服务器，启用开放到公网的多个端口，用 PTH 配置 Metasploit，并用 Meterpreter 攻陷最初的受害者。我们也可以用 Cobalt Strike 或其他框架来实现这一点，但在本例中我们将使用 Meterpreter。
 
 我们可以利用默认的 SSH 客户机，使用本地端口转发（-L）。在这个场景中，我使用的是 Mac，但这也可以在 Windows 或 Linux 系统上完成。我们将使用 SSH 密钥通过 SSH 连接到我们的 VPS。我们还将在攻击者机器上配置本地端口，在本例中是3389（RDP），以将任何发送到该端口的流量转发到我们的 VPS。当该端口上的流量转发到我们的 VPS 时，它会将该流量发送到 VPS 上 3389 端口上的本地主机。最后，我们需要在 3389 端口上设置一个监听我们的 VPS 的端口，并使用 Meterpreter 的端口转发功能通过被攻陷的受害机器设置一个端口转发，以能连接到受害者的系统。
 
