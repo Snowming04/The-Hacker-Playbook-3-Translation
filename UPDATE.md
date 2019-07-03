@@ -26,3 +26,7 @@
 > 首先，我们需要设置一个 VPS 服务器，启用开放到公网的多个端口，用 **PTF** 配置 Metasploit，并用 Meterpreter 攻陷最初的受害者。我们也可以用 Cobalt Strike 或其他框架来实现这一点，但在本例中我们将使用 Meterpreter。
 
 感谢 @蝶离飞 师傅的宝贵建议，已把 `PTF` 更正为 `PTH`。
+
+>如果你幸运地获得了一个 SSH shell，那么我们可以通过该系统进行渗透。我们如何获得 SSH shell 呢？在许多情况下，一旦我们可以实现本地文件包含（LFI）或远程代码执行（RCE），我们可以尝试权限升级以读取 /etc/shadow 文件（和密码破解），或者我们可以利用一些 **Mimimikatz** 风格的方法。
+
+感谢 @蝶离飞 师傅的宝贵建议，已把 `Mimimikatz` 更正为 `Mimikatz`。
