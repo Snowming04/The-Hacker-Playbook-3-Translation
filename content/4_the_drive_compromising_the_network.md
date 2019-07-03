@@ -986,7 +986,7 @@ Empire 模块：powershell/credentials/mimikatz/dcsync_hashdump
 - Meterpreter:
   - portfwd add –l 3389 –p 3389 –r <target_IP>
 
-如果你幸运地获得了一个 SSH shell，那么我们可以通过该系统进行渗透。我们如何获得 SSH shell 呢？在许多情况下，一旦我们可以实现本地文件包含（LFI）或远程代码执行（RCE），我们可以尝试权限升级以读取 /etc/shadow 文件（和密码破解），或者我们可以利用一些 Mimimikatz 风格的方法。
+如果你幸运地获得了一个 SSH shell，那么我们可以通过该系统进行渗透。我们如何获得 SSH shell 呢？在许多情况下，一旦我们可以实现本地文件包含（LFI）或远程代码执行（RCE），我们可以尝试权限升级以读取 /etc/shadow 文件（和密码破解），或者我们可以利用一些 Mimikatz 风格的方法。
 
 与 Windows 和 Mimikatz 一样，Linux 系统也有同样的问题，密码以明文形式存储。@huntergregal 编写的工具可以转储特定进程，这些进程很可能以明文形式包含用户的密码。尽管迄今为止，这只适用于有限版本的 Linux 系统，但这个相同的概念可以在整个系统中使用。你可以在这里准确地看到哪些系统以及从何处获取密码：
 
