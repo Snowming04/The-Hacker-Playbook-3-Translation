@@ -3,7 +3,7 @@
 - 译者：[Snowming](https://github.com/Snowming04)（雪茗）  时间：北京时间 2019-03-17
 - 本书英文名：The Hacker Playbook 3
 
-![](cover.jpg)
+![](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/blob/master/cover.jpg)
 
 
 ## 阅读及 PDF 下载
